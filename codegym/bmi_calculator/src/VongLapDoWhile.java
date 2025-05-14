@@ -1,5 +1,0 @@
-public class VongLapDoWhile{
-    public static void main(String[] args) {
-
-    }
-}
